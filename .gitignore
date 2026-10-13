@@ -1,0 +1,6 @@
+# Local API credentials
+.env
+
+# Python bytecode
+__pycache__/
+*.py[cod]
