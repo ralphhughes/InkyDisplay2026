@@ -4,3 +4,9 @@
 # Python bytecode
 __pycache__/
 *.py[cod]
+
+# Local virtual environments
+.venv/
+
+# Generated local dashboard preview
+dashboard-preview.png
